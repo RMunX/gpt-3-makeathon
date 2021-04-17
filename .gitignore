@@ -1,3 +1,4 @@
 .env
 .venv
 prompt.txt
+conf/*
